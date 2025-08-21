@@ -59,8 +59,9 @@ export default function About() {
               15+ Years of Technology Excellence & Innovation
             </h2>
             <p className="text-xl text-slate-600 mb-8 leading-relaxed">
-              Since 2009, Corner High Tech has been at the forefront of technological innovation, helping over 500
-              businesses transform their operations through strategic technology implementation and digital excellence.
+              {
+                "Since 2009, Corner High Tech has been at the forefront of technological innovation, helping over 500 businesses transform their operations through strategic technology implementation and digital excellence."
+              }
             </p>
             <p className="text-slate-600 mb-10 leading-relaxed text-lg">
               Our team of certified experts combines deep technical knowledge with business acumen to deliver solutions
